@@ -32,7 +32,7 @@ It loads a GLTF model and renders it in the browser.
 ## How to Run
 
         # clone the repo
-        git clone https://github.com/username/Avatar-Render-Demo.git
+        git clone https://github.com/Navith-navith/Avatar-Render-Demo.git
         cd Avatar-Render-Demo
         
         # install dependencies
