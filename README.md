@@ -4,14 +4,14 @@ It loads a GLTF model and renders it in the browser.
 
 ---
 
-## 🚀 Features
+##  Features
 - 3D model rendering with Three.js
 - Responsive design
 - Easy setup with Vite
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 public/
 └── models/
 ├── scene.gltf
@@ -27,3 +27,6 @@ src/
 index.html
 package.json
 vite.config.js
+
+
+
