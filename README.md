@@ -12,21 +12,21 @@ It loads a GLTF model and renders it in the browser.
 ---
 
 ##  Project Structure
-public/
-└── models/
-├── scene.gltf
-├── scene.bin
-src/
-├── App.css
-├── App.jsx
-├── Avatar.jsx
-├── main.jsx
-└── assets/
-└── react.svg
-.gitignore
-index.html
-package.json
-vite.config.js
+    public/
+    └── models/
+    ├── scene.gltf
+    ├── scene.bin
+    src/
+    ├── App.css
+    ├── App.jsx
+    ├── Avatar.jsx
+    ├── main.jsx
+    └── assets/
+    └── react.svg
+    .gitignore
+    index.html
+    package.json
+    vite.config.js
 
 
 
